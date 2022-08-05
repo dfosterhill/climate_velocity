@@ -1,4 +1,4 @@
-%this will compute some stuff re: the UA SWE product
+%this will compute some stuff from the daymet swe dataset
 % dave hill
 % jun 2022
 
